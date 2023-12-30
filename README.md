@@ -1,7 +1,10 @@
-<h1>Thunderbolt3模块<h1>
-原理图未整理，已验证可正常使用
+<h1>Thunderbolt3方案<h1>
 
-<h2>目录说明<h2>
+<h2>说明<h2>
+
+此项目包含Thunderbolt3核心板+底板PCB文件，底板为官方提供的EVM，核心板原理图未整理，两张pcb均已验证可正常使用
+
+<h2>目录<h2>
 
 -Document目录内为部分可公开资料
 
